@@ -1,0 +1,8 @@
+fastapi
+llama-index
+langchain
+dotenv
+os
+langgraph
+llama-index-llms-gemini
+llama-index-llms-langchain
